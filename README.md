@@ -1,6 +1,6 @@
 # InstitutionalCompetency
 
-Competency_of_Institutions.pdf is an explanation of the model
+InstitutionalCompetence.pdf is an explanation of the model
 
 getVoteData.py is a python script that downloads House & Senate roll-call vote results from CSPAN
 
